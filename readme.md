@@ -3,6 +3,7 @@
 ## Contents
 
 * [Technologies](#technologies)
+  * [Front-End-Basics](#front-end-basics)
 * [Guides](#guides)
   * [CSS Guides](#css-guides)
 * [Tools](#tools)
@@ -12,14 +13,19 @@
   * [3rd Party Terminal](#3rd-party-terminal)
 
 ### <a name="#technologies">Technologies</a>
-#### Front-End-Basics
+#### <a name="#front-end-basics">Front-End-Basics</a>
 * [HTML]()
   * Semantic HTML5 Elements
 * [CSS]()
   * Positioning, Box Model, etc.
   * Flexbox & CSS Grid
   * CSS Variables (Custom Properties)
-* [JavaScript]()
+* [Vanilla JavaScript]() - JavaScript without a framework
+  * Data Types, functions, conditionals, loops, operators
+  * DOM Manipulations & Events
+  * JSON
+  * Fetch API
+  * ES6+ (Arrow Functions, Promises, async/await, destructuring)
 
 ### <a name="#guides">Guides</a>
 #### <a name="#css-guides">CSS Guides</a>
